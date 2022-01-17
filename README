@@ -1,0 +1,15 @@
+Author: Neeraj Thottupurath
+
+
+Purpose: To encrypt plaintext with the use of a key, as well as to decrypt
+		 the ciphertext with the same key
+		 
+Source file: NeerajThottupurathA1.c
+		 
+
+To compile: gcc -Wall -o NeerajThottupurathA1 -std=c99 NeerajThottupurathA1.c
+
+
+To run: ./NeerajThottupurathA1
+
+
